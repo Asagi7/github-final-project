@@ -1,17 +1,17 @@
-curl https://api.github.com/repos/Asagi7/mcino-Introduction-to-Git-and-GitHub
+curl https://api.github.com/repos/Asagi7/github-final-project
 
 {
   "id": 1405105712,
   "node_id": "R_kgDOU8A2MA",
-  "name": "mcino-Introduction-to-Git-and-GitHub",
-  "full_name": "Asagi7/mcino-Introduction-to-Git-and-GitHub",
+  "name": "github-final-project",
+  "full_name": "Asagi7/github-final-project",
   "private": false,
   "owner": {
     "login": "Asagi7",
     "id": 44899395,
     "type": "User"
   },
-  "html_url": "https://github.com/Asagi7/mcino-Introduction-to-Git-and-GitHub",
+  "html_url": "https://github.com/Asagi7/github-final-project",
   "fork": true,
   "parent": {
     "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
