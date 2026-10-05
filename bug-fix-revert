@@ -18,7 +18,7 @@ curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introductio
         "html_url": "https://github.com/Asagi7"
       },
       "repo": {
-        "full_name": "Asagi7/mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "Asagi7/github-final-project",
         "fork": true
       }
     },
